@@ -4,7 +4,7 @@ import { Button } from './ui/button'
 import { SignedIn, SignedOut, SignIn, SignInButton, UserButton, useUser } from '@clerk/clerk-react';
 import { BriefcaseBusiness, Heart, PenBox } from 'lucide-react';
 import { useState } from 'react';
-import '@/app.css'
+import '../App.css'; 
 
 
 const Header = () => {
