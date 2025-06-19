@@ -1,12 +1,21 @@
-# React + Vite
+Live Demo: [hired-naukari.vercel.app](https://hired-naukari-ihc46ngda-pradeep-kolisettys-projects.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hired is a modern, full-stack job portal where recruiters can post jobs and candidates can view them. Built with React, Supabase, and Clerk Authentication, this platform is designed to be fast, clean, and recruiter-friendly.
 
-Currently, two official plugins are available:
+✨ Features
+🔐 Authentication with Clerk
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧑‍💼 Recruiters can post, update, or close job listings
 
-## Expanding the ESLint configuration
+📌 Real-time hiring status (Open/Closed)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🗺️ Location, Requirements, and Description for each job
+
+📄 Markdown support for job requirements
+
+📊 Application counter per job
+
+🛠️ Tech Stack
+Frontend	   Backend/Auth	  Database	Deployment
+React + Vite	Clerk (Auth)	Supabase	Vercel
+
