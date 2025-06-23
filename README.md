@@ -1,4 +1,4 @@
-Live Demo: [hired-naukari.vercel.app](https://hired-naukari-ihc46ngda-pradeep-kolisettys-projects.vercel.app/)
+Live Demo: [hired-naukari.vercel.app](https://hired-naukari.vercel.app/)
 
 Hired is a modern, full-stack job portal where recruiters can post jobs and candidates can view them. Built with React, Supabase, and Clerk Authentication, this platform is designed to be fast, clean, and recruiter-friendly.
 
